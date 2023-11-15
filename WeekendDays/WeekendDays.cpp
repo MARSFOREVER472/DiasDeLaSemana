@@ -8,6 +8,9 @@ int main()
 {
     // VAMOS A CREAR UN MENÚ PARA DESPLEGAR TODOS LOS DÍAS DE LA SEMANA EN C++.
 
+    // COMENTANDO DESDE ESTA LÍNEA PARA PROCEDER A UN EJERCICIO ALTERNATIVO.
+
+    /*
     int days = 0; // LOS DÍAS DE LA SEMANA SE INICIALIZA EN 0.
     cout << "**********¡¡¡¡¡BIENVENIDO A LA SECCION DE LOS DIAS DE LA SEMANA!!!!!**********" << endl; // DESPLIEGA EL MENÚ DESDE ESTA LÍNEA HASTA LA OPCIÓN FINAL.
     cout << "PARA COMENZAR, ELIGE UNA OPCION!: " << endl;
@@ -41,6 +44,49 @@ int main()
         break;
 
     case 5: // SI LA OPCIÓN INGRESADA ES EL NÚMERO 5.
+        cout << "VIERNES" << endl; // ES UN DÍA VIERNES.
+        break;
+
+    default:
+        cout << "ES FIN DE SEMANA O NO EXISTE UNA OPCIÓN INGRESADA, TRY AGAIN!!!!!" << endl;
+    }
+    return 0; */
+
+    // EJERCICIO ALTERNATIVO PERO CON LETRAS SIMBÓLICAS.
+
+    char days = 0; // LOS DÍAS DE LA SEMANA VAN A SER SIMBOLIZADAS CON SUS INICIALES EN INGLÉS.
+    cout << "**********¡¡¡¡¡BIENVENIDO A LA SECCION DE LOS DIAS DE LA SEMANA!!!!!**********" << endl; // DESPLIEGA EL MENÚ DESDE ESTA LÍNEA HASTA LA OPCIÓN FINAL.
+    cout << "PARA COMENZAR, ELIGE UNA OPCION!: " << endl;
+    cout << "================================" << endl;
+    cout << "M.- LUNES, COMO LA LUNA BLANCA" << endl;
+    cout << "T.- MARTES, COMO EL PLANETA ROJO" << endl;
+    cout << "W.- MIERCOLES, COMO EL MERCURIO" << endl;
+    cout << "R.- JUEVES, COMO JUPITER GIGANTE" << endl;
+    cout << "F.- VIERNES, COMO VENUS DE MILO" << endl;
+    cout << "================================" << endl; // FINAL DEL MENÚ EN ESTA SECCIÓN.
+    cin >> days; // DESDE LA VARIABLE YA DECLARADA, LE PREGUNTA AL USUARIO MEDIANTE UN "CONSOLE-IN" PARA INGRESAR UN DÍA CUALQUIERA DE ESTAS OPCIONES MENCIONADAS ANTERIORMENTE.
+
+    // CREAREMOS UNA ESTRUCTURA DEL SWITCH PARA VISUALIZAR UNA RESPUESTA DEPENDIENDO DE LA DECISIÓN QUE INGRESA EL USUARIO DESDE EL MISMO "CONSOLE-IN".
+
+    switch (days)
+    {
+    case 'M': // SI LA OPCIÓN INGRESADA ES UNA LETRA 'M'.
+        cout << "LUNES" << endl; // ES UN DÍA LUNES.
+        break;
+
+    case 'T': // SI LA OPCIÓN INGRESADA ES UNA LETRA 'T'.
+        cout << "MARTES" << endl; // ES UN DÍA MARTES.
+        break;
+
+    case 'W': // SI LA OPCIÓN INGRESADA ES UNA LETRA 'W'.
+        cout << "MIÉRCOLES" << endl; // ES UN DÍA MIÉRCOLES.
+        break;
+
+    case 'R': // SI LA OPCIÓN INGRESADA ES UNA LETRA 'R'.
+        cout << "JUEVES" << endl; // ES UN DÍA JUEVES.
+        break;
+
+    case 'F': // SI LA OPCIÓN INGRESADA ES UNA LETRA 'F'.
         cout << "VIERNES" << endl; // ES UN DÍA VIERNES.
         break;
 
