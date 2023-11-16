@@ -19,3 +19,7 @@ Los días de la semana son cíclicos, esto quiere decir que se repiten cada sema
 ## ¿Cómo se empiezan los días de la semana?
 
 Se conoce que a nivel internacional, el estándar ISO 8601 del año 2004 estableció que la semana comienza en lunes y termina en domingo, considerándolo, de esta manera, el último día del cómputo semanal.
+
+## ¿Quién creó los días de la semana?
+
+Los nombres y número de días que conforman nuestros meses fueron heredados del calendario romano o juliano, elaborado por el emperador Julio César, en el año 46 antes de Cristo (a.C.), con la asesoría del astrónomo y filósofo Sosígenes.
