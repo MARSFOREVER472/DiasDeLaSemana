@@ -22,4 +22,4 @@ _Se conoce que a nivel internacional, el estándar ISO 8601 del año 2004 establ
 
 ## ¿Quién creó los días de la semana?
 
-Los nombres y número de días que conforman nuestros meses fueron heredados del calendario romano o juliano, elaborado por el emperador Julio César, en el año 46 antes de Cristo (a.C.), con la asesoría del astrónomo y filósofo Sosígenes.
+_Los nombres y número de días que conforman nuestros meses fueron heredados del calendario romano o juliano, elaborado por el emperador Julio César, en el año 46 antes de Cristo (a.C.), con la asesoría del astrónomo y filósofo Sosígenes._
