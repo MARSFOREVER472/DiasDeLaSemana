@@ -6,7 +6,7 @@ _En aquella época, alrededor de 2 milenios atrás, los romanos adoptaron una tr
 
 ![image](https://github.com/MARSFOREVER472/DiasDeLaSemana/assets/69094327/a5cea8aa-8127-4977-8918-395986a0a7b4)
 
-## ¿Cuáles son los 5 días de la semana?
+### ¿Cuáles son los 5 días de la semana?
 
 _En español los nombres derivan de este ciclo, excepto el sexto y séptimo que lo hacen de la tradición cristiana, lo que resulta en los actuales nombres de los días de la semana: Lunes (Luna), Martes (Marte), Miércoles (Mercurio), Jueves (Júpiter) y Viernes (Venus)._
 
