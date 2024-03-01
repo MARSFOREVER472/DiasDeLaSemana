@@ -16,7 +16,7 @@ _Los días de la semana son, generalmente cíclicos, esto quiere decir que se re
 
 ![image](https://github.com/MARSFOREVER472/DiasDeLaSemana/assets/69094327/c77dc834-3a26-427d-a4bf-19e30c44b56f)
 
-## ¿Cómo se empiezan los días de la semana?
+### ¿Cómo se empiezan los días de la semana?
 
 _Se conoce que, a nivel internacional, el estándar ISO 8601 del año 2004 estableció que la semana comienza en lunes y termina en domingo, considerándolo, de esta manera, el último día del cómputo semanal._
 
