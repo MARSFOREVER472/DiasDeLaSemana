@@ -18,7 +18,7 @@ _Los días de la semana son, generalmente cíclicos, esto quiere decir que se re
 
 ## ¿Cómo se empiezan los días de la semana?
 
-_Se conoce que a nivel internacional, el estándar ISO 8601 del año 2004 estableció que la semana comienza en lunes y termina en domingo, considerándolo, de esta manera, el último día del cómputo semanal._
+_Se conoce que, a nivel internacional, el estándar ISO 8601 del año 2004 estableció que la semana comienza en lunes y termina en domingo, considerándolo, de esta manera, el último día del cómputo semanal._
 
 ## ¿Quién creó los días de la semana?
 
