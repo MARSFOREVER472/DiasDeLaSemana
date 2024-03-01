@@ -2,7 +2,7 @@
 
 ### ¿Porqué los nombres de los días de la semana?
 
-_En aquella época, alrededor de 2 milenios atrás, los romanos adoptaron la tradición helénica de nombrar los días de la semana de acuerdo a sus principales astros y planetas que representaban sus divinidades. Estos cuerpos celestes eran: la Luna, Marte, Mercurio, Júpiter y Venus (Típicamente de Lunes a Viernes, respectivamente)._
+_En aquella época, alrededor de 2 milenios atrás, los romanos adoptaron una tradición helénica de nombrar los días de la semana de acuerdo a sus principales astros y planetas que representaban sus divinidades. Estos cuerpos celestes eran: la Luna, Marte, Mercurio, Júpiter y Venus (Típicamente de Lunes a Viernes, respectivamente)._
 
 ![image](https://github.com/MARSFOREVER472/DiasDeLaSemana/assets/69094327/a5cea8aa-8127-4977-8918-395986a0a7b4)
 
