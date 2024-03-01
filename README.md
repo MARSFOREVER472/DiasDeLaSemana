@@ -20,6 +20,6 @@ _Los días de la semana son, generalmente cíclicos, esto quiere decir que se re
 
 _Se conoce que, a nivel internacional, el estándar ISO 8601 del año 2004 estableció que la semana comienza en lunes y termina en domingo, considerándolo, de esta manera, el último día del cómputo semanal._
 
-## ¿Quién creó los días de la semana?
+### ¿Quién creó los días de la semana?
 
 _Los nombres y número de días que conforman nuestros meses fueron heredados del calendario romano o juliano, elaborado por el emperador Julio César, en el año 46 antes de Cristo (a.C.), con la asesoría del astrónomo y filósofo Sosígenes._
