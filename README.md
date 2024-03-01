@@ -10,7 +10,7 @@ _En aquella época, alrededor de 2 milenios atrás, los romanos adoptaron una tr
 
 _En español los nombres derivan de este ciclo, excepto el sexto y séptimo que lo hacen de la tradición cristiana, lo que resulta en los actuales nombres de los días de la semana: Lunes (Luna), Martes (Marte), Miércoles (Mercurio), Jueves (Júpiter) y Viernes (Venus)._
 
-## ¿Cómo son los días de la semana?
+### ¿Cómo son los días de la semana?
 
 _Los días de la semana son, generalmente cíclicos, esto quiere decir que se repiten cada semana. El martes, por ejemplo, viene después del lunes y antes del miércoles. Por su parte el jueves está entre el miércoles y el viernes. Y si hablamos del domingo, podemos decir que está entre los días viernes y el lunes._
 
