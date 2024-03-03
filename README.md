@@ -18,7 +18,7 @@
 
 ### How do you start the days of the week?
 
-It is known that, at an international level, the ISO 8601 standard of 2004 established that the week begins on Monday and ends on Sunday, considering it, in this way, the last day of the weekly calculation.
+_It is known that, at an international level, the ISO 8601 standard of 2004 established that the week begins on Monday and ends on Sunday, considering it, in this way, the last day of the weekly calculation._
 
 **_Traducido del español:_**
 
