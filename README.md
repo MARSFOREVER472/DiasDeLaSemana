@@ -12,7 +12,7 @@
 
 ### What are the days of the week like?
 
-_The days of the week are generally cyclical, meaning that they repeat each week. Tuesday, for example, comes after Monday and before Wednesday. For its part, Thursday is between Wednesday and Friday. And if we talk about Sunday, we can say that it is between Friday and Monday._
+**_The days of the week are generally cyclical, meaning that they repeat each week. Tuesday, for example, comes after Monday and before Wednesday. For its part, Thursday is between Wednesday and Friday. And if we talk about Sunday, we can say that it is between Friday and Monday._**
 
 **_Traducido del español:_**
 
