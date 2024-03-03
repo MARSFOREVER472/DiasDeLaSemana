@@ -2,6 +2,8 @@
 
 ### Why the names of the days of the week?
 
+At that time, around 2 millennia ago, the Romans adopted a Hellenic tradition of naming the days of the week according to their main stars and planets that represented their divinities. These celestial bodies were: the Moon, Mars, Mercury, Jupiter and Venus (Typically Monday through Friday, respectively).
+
 **_Traducido del español:_**
 
 ### ¿Porqué los nombres de los días de la semana?
