@@ -10,6 +10,8 @@
 
 **_In Spanish the names derive from this cycle, except for the sixth and seventh which do so from Christian tradition, resulting in the current names of the days of the week: Monday (Moon), Tuesday (Mars), Wednesday (Mercury) , Thursday (Jupiter) and Friday (Venus)._**
 
+What are the days of the week like?
+
 **_Traducido del español:_**
 
 ### ¿Porqué los nombres de los días de la semana?
