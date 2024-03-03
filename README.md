@@ -14,6 +14,8 @@
 
 **_The days of the week are generally cyclical, meaning that they repeat each week. Tuesday, for example, comes after Monday and before Wednesday. For its part, Thursday is between Wednesday and Friday. And if we talk about Sunday, we can say that it is between Friday and Monday._**
 
+![image](https://github.com/MARSFOREVER472/DiasDeLaSemana/assets/69094327/c77dc834-3a26-427d-a4bf-19e30c44b56f)
+
 **_Traducido del español:_**
 
 ### ¿Porqué los nombres de los días de la semana?
