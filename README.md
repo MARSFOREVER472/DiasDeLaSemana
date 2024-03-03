@@ -8,7 +8,7 @@
 
 ### What are the 5 days of the week?
 
-_In Spanish the names derive from this cycle, except for the sixth and seventh which do so from Christian tradition, resulting in the current names of the days of the week: Monday (Moon), Tuesday (Mars), Wednesday (Mercury) , Thursday (Jupiter) and Friday (Venus)._
+**_In Spanish the names derive from this cycle, except for the sixth and seventh which do so from Christian tradition, resulting in the current names of the days of the week: Monday (Moon), Tuesday (Mars), Wednesday (Mercury) , Thursday (Jupiter) and Friday (Venus)._**
 
 **_Traducido del español:_**
 
