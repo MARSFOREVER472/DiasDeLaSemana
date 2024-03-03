@@ -1,5 +1,7 @@
 # DiasDeLaSemana
 
+Why the names of the days of the week?
+
 **_Traducido del español:_**
 
 ### ¿Porqué los nombres de los días de la semana?
