@@ -6,6 +6,8 @@
 
 ![image](https://github.com/MARSFOREVER472/DiasDeLaSemana/assets/69094327/a5cea8aa-8127-4977-8918-395986a0a7b4)
 
+What are the 5 days of the week?
+
 **_Traducido del español:_**
 
 ### ¿Porqué los nombres de los días de la semana?
