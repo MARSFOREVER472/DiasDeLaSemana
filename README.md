@@ -22,6 +22,8 @@
 
 ### Who created the days of the week?
 
+The names and number of days that make up our months were inherited from the Roman or Julian calendar, developed by the emperor Julius Caesar, in the year 46 BC (BC), with the advice of the astronomer and philosopher Sosigenes.
+
 **_Traducido del español:_**
 
 ### ¿Porqué los nombres de los días de la semana?
