@@ -1,6 +1,6 @@
 # DiasDeLaSemana
 
-_Traducido del español:_
+**_Traducido del español:_**
 
 ### ¿Porqué los nombres de los días de la semana?
 
