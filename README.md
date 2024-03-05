@@ -48,4 +48,4 @@
 
 ### ¿Quién creó los días de la semana?
 
-**_Los nombres y número de días que conforman nuestros meses fueron heredados del calendario romano o juliano, elaborado por el emperador Julio César, en el año 46 antes de Cristo (a.C.), con la asesoría del astrónomo y filósofo Sosígenes._**
+**_Los nombres y número de días que conforman nuestros meses fueron heredados del calendario romano o juliano, establecido por el emperador Julio César, en el año 46 antes de Cristo (a.C.), con la asesoría del astrónomo y filósofo Sosígenes._**
